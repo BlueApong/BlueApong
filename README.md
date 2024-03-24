@@ -1,9 +1,8 @@
 # hello-world
-To celebrate the first use of github, I create the repository
+🚢2022.08
 
-my name is alBeLine meaning the persistence
+My name is apong
 
-studing in gz south of CHINA
-a fresh man in university and a roobie in code
+A roobie in coding
 
-the world, i am coming!
+Hello, the world, I am coming!🐺
